@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: Get started with Bootstrap
-description: Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.
+title: bootstrap bilan ishlashni boshlang
+description: Bootstrap - bu kuchli, xususiyatlarga ega frontend materiallari to'plami. Bir necha daqiqada prototipdan tortib mukammal veb-saytgacha bo'lgan hamma narsani yarating.
 group: getting-started
 aliases:
   - "/docs/5.2/getting-started/"
@@ -10,9 +10,9 @@ aliases:
 toc: true
 ---
 
-## Quick start
+## Tezkor boshlash
 
-Get started by including Bootstrap's production-ready CSS and JavaScript via CDN without the need for any build steps. See it in practice with this [Bootstrap CodePen demo](https://codepen.io/team/bootstrap/pen/qBamdLj).
+Bootstrap-ning ishlab chiqarishga tayyor CSS va JavaScript-ni CDN orqali hech qanday qurish bosqichlarisiz qo'shish orqali boshlang. Buni [Bootstrap CodePen demosi](https://codepen.io/team/bootstrap/pen/qBamdLj) bilan amalda ko'ring.
 
 <br>
 
