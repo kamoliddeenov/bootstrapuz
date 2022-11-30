@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: bootstrap bilan ishlashni boshlang
+title: Bootstrap bilan ishlashni boshlang
 description: Bootstrap - bu kuchli, xususiyatlarga ega frontend materiallari to'plami. Bir necha daqiqada prototipdan tortib mukammal veb-saytgacha bo'lgan hamma narsani yarating.
 group: getting-started
 aliases:
@@ -16,7 +16,7 @@ Bootstrap-ning ishlab chiqarishga tayyor CSS va JavaScript-ni CDN orqali hech qa
 
 <br>
 
-1. **Create a new `index.html` file in your project root.** Include the `<meta name="viewport">` tag as well for [proper responsive behavior](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag) in mobile devices.
+1. **Loyihangiz uchun yangi `index.html` nomli fayl yarating.** Veb saytingiz mobil qurilmalarda [to'g'ri ya'ni moslashuvchan shaklda](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag) ishlashi uchun `<meta name="viewport">` tegini qo'shing.
 
    ```html
    <!doctype html>
