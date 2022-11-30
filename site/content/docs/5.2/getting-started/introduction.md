@@ -27,12 +27,12 @@ Bootstrap-ning ishlab chiqarishga tayyor CSS va JavaScript-ni CDN orqali hech qa
        <title>Bootstrap demo</title>
      </head>
      <body>
-       <h1>Hello, world!</h1>
+       <h1>Salom, Dunyo!</h1>
      </body>
    </html>
    ```
 
-2. **Include Bootstrap's CSS and JS.** Place the `<link>` tag in the `<head>` for our CSS, and the `<script>` tag for our JavaScript bundle (including Popper for positioning dropdowns, poppers, and tooltips) before the closing `</body>`. Learn more about our [CDN links](#cdn-links).
+2. **Bootstrapning CSS va JS fayllarini qo'shing.** CSS ulash uchun  `<head>` tegi ichiga `<link>` attributi orqali qo'shing va `<script>` tegi orqali JavaScript faylini ulab oling (popper, dropdown, tooltip va shu kabi funksiyalar ishlashi uchun), bu `</body>` tegi yopilishidan avval qo'shiladi. [CDN linklari](#cdn-links) haqida ko'proq ma'lumotlarni o'rganib chiqing.
 
    ```html
    <!doctype html>
